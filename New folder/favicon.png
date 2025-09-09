@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect x="0" y="0" width="64" height="64" rx="8" fill="#34405C" />
+  
+  <!-- Player character -->
+  <rect x="18" y="14" width="28" height="36" rx="10" fill="#F0F8FF" />
+  <rect x="20" y="16" width="24" height="32" rx="8" fill="#34405C" />
+  
+  <!-- Eyes -->
+  <circle cx="26" cy="28" r="4" fill="#F0F8FF" />
+  <circle cx="38" cy="28" r="4" fill="#F0F8FF" />
+  
+  <!-- Platform -->
+  <rect x="8" y="50" width="48" height="8" rx="4" fill="#344058" />
+  <rect x="8" y="50" width="48" height="3" rx="2" fill="#485878" />
+</svg>
